@@ -1,5 +1,7 @@
 ### Hi there 👋
-![gestgest's GitHub stats](https://github-readme-stats.vercel.app/api?username=gestgest&show_icons=true&theme=dark)   
+![gestgest's GitHub stats](https://github-readme-stats.vercel.app/api?username=gestgest&show_icons=true&theme=merko)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=milkan660)](https://solved.ac/milkan660)
 <!--
 **gestgest/gestgest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
