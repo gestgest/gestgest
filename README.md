@@ -25,8 +25,8 @@
 
 
 ### Projects
-- **[CheckCompany](https://github.com/gestgest/CheckCompany)**
-- **[인지재활 VR 콘텐츠](https://github.com/HS-GS31/GS31)**
+- [CheckCompany](https://github.com/gestgest/CheckCompany)
+- [인지재활 VR 콘텐츠](https://github.com/HS-GS31/GS31)
 - [Java_Maplestory](https://github.com/gestgest/JavaGame_Maplestory)
 - **[StrikeZone VR](https://github.com/StrikeZone-VR/vr_baseball)**<br>
 
