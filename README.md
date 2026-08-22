@@ -1,7 +1,3 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gestgest)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Programming Language
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -29,7 +25,7 @@
 - [CheckCompany](https://github.com/gestgest/CheckCompany)
 - **[StrikeZone VR](https://github.com/StrikeZone-VR/vr_baseball)**
 - [OpenGL 프로젝트](https://github.com/gestgest/MoreCreatures)
-- [RotForest, 언리얼 프로젝트](https://github.com/gestgest/ZombieHunter1)<br>
+- **[RotForest, 언리얼 프로젝트](https://github.com/gestgest/ZombieHunter1)**<br>
 
 
 ### link
