@@ -1,6 +1,5 @@
 ### 안진혁 (An Jinhyeok)
-
-📄 **[포트폴리오 PDF 보기](여기에_PDF_링크)**  |  📫 milkan660@naver.com
+📫 milkan660@naver.com
 
 
 ### Programming Language
