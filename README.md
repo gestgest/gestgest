@@ -1,34 +1,32 @@
+### 안진혁 (An Jinhyeok)
+
+📄 **[포트폴리오 PDF 보기](여기에_PDF_링크)**  |  📫 milkan660@naver.com
+
+
 ### Programming Language
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
 
 
 ### Skills
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-107C10?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 
 ### Projects
-- **[StrikeZone VR](https://github.com/StrikeZone-VR/vr_baseball)**
-- [OpenGL - MoreCreatures](https://github.com/gestgest/MoreCreatures)
-- [DirectX - MoreCreatures](https://github.com/gestgest/MoreCreatures_DX)
-- [OpenGL - MiniBlender](https://github.com/gestgest/MiniBlender)
-- **[RotForest, 언리얼 프로젝트](https://github.com/gestgest/RotForest)**<br><br>
-
-- [Java_Maplestory](https://github.com/gestgest/JavaGame_Maplestory)
-- [인지재활 VR 콘텐츠](https://github.com/HS-GS31/GS31)
-- [CheckCompany](https://github.com/gestgest/CheckCompany)
+- **[StrikeZone VR](https://github.com/StrikeZone-VR/vr_baseball)** — Unity VR 야구 시뮬레이션 · 프레임 단위 리플레이 시스템으로 게임플레이 버그 재현·수정
+- **[RotForest, 언리얼 프로젝트](https://github.com/gestgest/RotForest)** — Unreal C++ 탑다운 서바이벌 · 모바일(안드로이드) 빌드, 최적화
+- [CheckCompany](https://github.com/gestgest/CheckCompany) — Unity · Firebase 자기개발 회사 경영 시뮬레이션
+- [OpenGL - MoreCreatures](https://github.com/gestgest/MoreCreatures) — 엔진 없이 구현한 렌더링 게임 (Normal Mapping, Shadow Mapping)
+- [DirectX - MoreCreatures](https://github.com/gestgest/MoreCreatures_DX) — 위 프로젝트의 DirectX 버전
+- [OpenGL - MiniBlender](https://github.com/gestgest/MiniBlender) — 경량 3D 편집 프로그램
+- [Java_Maplestory](https://github.com/gestgest/JavaGame_Maplestory) — 소켓 통신 기반 멀티플레이 게임
+- [인지재활 VR 콘텐츠](https://github.com/HS-GS31/GS31) — Unity VR 콘텐츠
 
 
 ### link
@@ -40,17 +38,3 @@
 </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=milkan660)](https://solved.ac/milkan660)
-<!--
-**gestgest/gestgest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
