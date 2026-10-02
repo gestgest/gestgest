@@ -29,7 +29,7 @@
 - [인지재활 VR 콘텐츠](https://github.com/HS-GS31/GS31) — Unity VR 콘텐츠
 
 
-### link
+### Link
 <a href="https://velog.io/@gestgest">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
